@@ -1,4 +1,4 @@
-# Tasla_stock_time_series_forcasting
+# Tesla_stock_time_series_forcasting
 Using neural network models to predict the stock trend of Talsa
 Steps are:
 1. Data preprocessing - Clean the data by handling missing values, outliers, and inconsistencies. Normalize or scale the data to ensure uniformity and improve model performance. Select features that have predictive power and are relevant to the task of stock trend prediction. Split the data into training, validation, and testing sets to evaluate model performance effectively.
